@@ -1,6 +1,7 @@
 <h1 align="center">
   Hey you! Welcome to the repository!
   <br>
+  <br>
   <figure>
     <img src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/theTronVelotrol.gif" width="500" height="200">
   </figure> 
